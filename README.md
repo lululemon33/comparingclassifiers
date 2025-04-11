@@ -52,3 +52,5 @@ The decision tree with GridSearch had a slightly better ROC_AUC score than the l
 ##	Conclusion
 The best model to use to acheive the stated business objective would be the Logistic Regression model with Ridge Regression (l2). This model shows the highest F1 score and can be trained with few resources.
 
+1. Moro, Sérgio & Cortez, Paulo & Laureano, Raul. (2011). Using Data Mining for Bank Direct Marketing: An Application of the CRISP-DM Methodology. Proceedings of the European Simulation and Modelling Conference
+
